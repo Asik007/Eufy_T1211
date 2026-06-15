@@ -123,6 +123,10 @@ RTL8195A[Driver]: set ssid [network]
 
 ```
 
+I did try sending some commands like help or ?, but I only get the echo and no response. Since it says it the "Mass Produced" firmware I assume they took out the parsing code.
+
+
+
 There are other pins on the board which are the following (grouped as they are on the board):
 
 ===
